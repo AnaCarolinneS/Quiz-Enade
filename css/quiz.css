@@ -17,7 +17,7 @@ h1{
   color: #fff;
 }
 .question{
-  font-size: 30px;
+  font-size: 20px;
   margin-bottom: 10px;
 }
 .answers {
@@ -43,11 +43,6 @@ button{
 button:hover{
 	background-color: #38a;
 }
-
-
-
-
-
 .slide{
   position: absolute;
   left: 0px;
@@ -68,4 +63,10 @@ button:hover{
 }
 .actualizado {
   color: red;
+}
+
+.footer{
+  position:absolute;
+    bottom:0;
+    width:100%;
 }
